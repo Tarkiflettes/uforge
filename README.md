@@ -12,6 +12,6 @@ Générer l'appliance depuis les appliances importées
 Publier l'appliance vers une machine physique / virtuelle / plateforme Cloud
 
 ## Etape 4
-Accéder à l'application depuis l'URL : http://X.X.X.X:PPPP
+Accéder à l'application (API) depuis l'URL : http://X.X.X.X:3000
 Remplacer les X par l'adresse IP de l'instance.
 
