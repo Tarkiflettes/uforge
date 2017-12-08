@@ -4,7 +4,7 @@ Les fichiers fournis permettent de mettre en production automatiquement l'applic
 # Comment démarrer l'application
 ## Etape 1
 Importer le fichier dans la plateforme UForge.
-Vérifier que le firewall est bien désactiver dans l'appliance (bug d'export/import ?)
+Vérifier que le firewall est bien désactivé dans l'appliance (bug d'export/import ?)
 
 ## Etape 2
 Générer l'appliance depuis les appliances importées
